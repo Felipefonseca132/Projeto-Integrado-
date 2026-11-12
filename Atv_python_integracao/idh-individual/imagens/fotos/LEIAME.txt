@@ -1,0 +1,4 @@
+Coloque aqui 2 ou 3 fotos sobre combate à pobreza ou desenvolvimento social (jpg ou png).
+O nome do arquivo vira a legenda no app. Exemplo:
+  Escola no interior do Maranhão (Agência Brasil).jpg
+Coloque a fonte da foto no nome do arquivo.
